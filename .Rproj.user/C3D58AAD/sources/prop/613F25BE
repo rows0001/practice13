@@ -8,5 +8,9 @@
     "scrollLine": "0",
     "docOutlineVisible": "1",
     "rmdVisualCollapsedChunks": "",
+<<<<<<< HEAD
     "rmdVisualModeLocation": "47:0"
+=======
+    "rmdVisualModeLocation": "44:0"
+>>>>>>> testbranch
 }
